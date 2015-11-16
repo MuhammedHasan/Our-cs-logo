@@ -1,0 +1,208 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="3125.000000" height="1250.000000" viewBox="0 0 3125.000000 1250.000000" preserveAspectRatio="xMidYMid meet">
+  <g transform="translate(500.000000,1250.0000) scale(0.1,-0.1)" fill="#C0C0C0" stroke="none">
+    <path d="M5140 8450 l0 -4050 23 -5 c257 -57 391 -101 573 -190 438 -215 
+          804 -584 1014 -1020 94 -196 150 -374 192 -610 22 -118 22 -140 26 
+          -1333 l3 -1212 364 0 364 0 4 1208 c3 1092 5 1217 20 1312 80 479 
+          276 874 596 1204 193 198 381 336 615 451 182 89 316 133 574 190 
+          l22 5 0 4050 0 4050 -2195 0 -2195 0 0 -4050z"/>
+    <path d="M10270 7350 l0 -2950 23 -5 c257 -57 392 -101 572 -190 691 -340 
+          1153 -1008 1225 -1770 6 -68 10 -545 10 -1258 l0 -1147 1283 2 1282 
+          3 0 5130 0 5130 -2197 3 -2198 2 0 -2950z"/>
+    <path d="M5 8088 c-3 -7 -4 -1822 -3 -4033 l3 -4020 1283 -3 1282 -2 0 
+          1148 c0 736 4 1188 11 1258 74 764 536 1432 1223 1769 182 89 
+          316 133 574 190 l22 5 0 1850 0 1850 -2195 0 c-1747 0 -2197 -3 -2200 -12z"/>
+    <text x="2800" y="3800" font-size="5000" font-family="Verdana">C</text>
+    <text x="8200" y="100" font-size="5000" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">S</text>
+    <!-- First Binary box -->
+    <!-- Column -->
+    <text x="280" y="-6700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="280" y="-5600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="280" y="-4500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="280" y="-3400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="280" y="-2300" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="280" y="-1200" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="280" y="-100" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="1280" y="-6700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="1280" y="-5600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="1280" y="-4500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="1280" y="-3400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="1280" y="-2300" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="1280" y="-1200" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="1280" y="-100" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="2200" y="-6700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="2200" y="-5600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="2200" y="-4500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="2200" y="-3400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="3200" y="-6700" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="3200" y="-5600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="3200" y="-4500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- End Of First Binary box -->
+    <!-- Second Binary box -->
+    <!-- Column -->
+    <text x="5500" y="-11050" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-9950" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-8850" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-7750" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-6605" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-5505" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="5500" y="-4405" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="6500" y="-11050" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="6500" y="-9950" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="6500" y="-8850" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="6500" y="-7750" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="6500" y="-6605" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="6500" y="-5505" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="6500" y="-4405" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="7500" y="-11050" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-9950" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-8850" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-7750" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-6605" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-5505" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="7500" y="-4405" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="8500" y="-11050" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="8500" y="-9950" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="8500" y="-8850" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="8500" y="-7750" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="8500" y="-6605" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="8500" y="-5505" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="8500" y="-4405" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!--Alone zero -->
+    <text x="7000" y="-3205" font-size="1100" fill="#fff" font-family="Verdana"
+        transform="translate(0 299) scale(1 -1)">0</text>
+    <!--End of Alone zero -->
+    <!-- ThirBinary box -->
+    <!-- Column -->
+    <text x="10680" y="-8800" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="10680" y="-7700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="10680" y="-6600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="10680" y="-5500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="10680" y="-4400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="11680" y="-8800" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="11680" y="-7700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="11680" y="-6600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="11680" y="-5500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="11680" y="-4400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="11680" y="-3300" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">0</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="12680" y="-8800" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-7700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-6600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-5500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-4400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="12680" y="-3300" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-2200" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="-1100" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="12680" y="0" font-size="1100" fill="#fff" font-family="Verdana"
+     transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- Column -->
+    <text x="13680" y="-8800" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="13680" y="-7700" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="13680" y="-6600" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="13680" y="-5500" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="13680" y="-4400" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">1</text>
+    <text x="13680" y="-3300" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="13680" y="-2200" font-size="1100" fill="#fff" font-family="Verdana"
+        transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="13680" y="-1100" font-size="1100" fill="#fff" font-family="Verdana"
+          transform="translate(0 299) scale(1 -1)">0</text>
+    <text x="13680" y="0" font-size="1100" fill="#fff" font-family="Verdana"
+      transform="translate(0 299) scale(1 -1)">1</text>
+    <!--  End Column -->
+    <!-- End of Third Binary box -->
+  </g>
+</svg>
